@@ -46,6 +46,7 @@ public class gameManager : MonoBehaviour
     void ShowHistoria()
     {
         textH.gameObject.SetActive(true);
+        textH.text = string.Format(historia, savedWords);
 
         textQ.gameObject.SetActive(false);
         button.SetActive(false);
