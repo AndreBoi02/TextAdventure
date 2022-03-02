@@ -32,4 +32,4 @@ Los objetivos de este juego se enumeran a continuacion y se muestra su progreso.
 
 ## Autores
 
-* André Mauricio León - Programador - [@AndreBoi02](https://github.com/AndreBoi02)
+* André Mauricio León - Programador :hot_face: - [@AndreBoi02](https://github.com/AndreBoi02)
